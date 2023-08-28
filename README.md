@@ -25,7 +25,7 @@ The Temperature Converter App is a simple Android application that allows users 
 
 1. Clone the repository:
    ```git clone https://github.com/your-username/temperature-converter-app.git```
-2. 
+
 2. Open the project in Android Studio.
 
 3. Build and run the app on your device or emulator.
