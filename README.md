@@ -1,5 +1,15 @@
-# Temperature_Converter_App
+# Temperature Converter App
  An android application based on JAVA programming to convert the measuring unit of temperature from celcius to fehrenheit and vice-versa.
+
+## Table of Contents:
+1. [Description](#description)
+2. [Features](#features)
+3. [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+4. [Usage](#usage)
+5. [Acknowledgments](#acknowledgments)
+
 
 ## Description
 
